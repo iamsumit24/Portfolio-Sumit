@@ -1,33 +1,33 @@
 [
   
   {
-    "name": "end-to-end-pipeline-jenkins",
+    "name": "Deploying a Bank App on AWS EKS with Persistent EBS Storage",
     "desc": "This project successfully demonstrates a complete industry-level application deployment, utilizing various DevOps tools.",
     "image": "cicd",
     "category": "mern",
     "links": {
-      "code": "https://github.com/kartik-paliwa1/Ultimate-devops-lifecycle",
-      "view": "https://github.com/kartik-paliwa1/Ultimate-devops-lifecycle/tree/main/project%20screenshots"
+      "code": "https://github.com/iamsumit24/K8s-Mega-Project1.git",
+      "view": "https://github.com/iamsumit24/K8s-Mega-Project1.git"
     }
   },
   {
-    "name": "End-to-End-devops-project",
-    "desc": "This project successfully demonstrates a complete, end-to-end DevOps workflow, automating the entire lifecycle of a cloud-native Go application.",
+    "name": "Cloud-Native Monitoring App ",
+    "desc": "Real-time CPU & memory tracking, containerized and deployed on EKS..",
     "image": "ultimate",
     "category": "mern",
     "links": {
-      "code": "https://github.com/kartik-paliwa1/end-to-end-devops-project",
-      "view": "https://github.com/kartik-paliwa1/end-to-end-devops-project/tree/main/screenshots"
+      "code": "https://github.com/iamsumit24/cloud-native-monitoring-app.git",
+      "view": "https://github.com/iamsumit24/cloud-native-monitoring-app.git"
     }
   },
   {
-    "name": "End-to-End-pipeline-jenkins",
-    "desc": "This repository outlines building and automating an end-to-end CI/CD pipeline. It fetches code from a GitHub repository, builds it and deploys it.",
+    "name": "Secure and Scalable AWS VPC Architecture Setup",
+    "desc": "Production-grade VPC with multi-tier EC2, security, and cost-efficiency..",
     "image": "pro",
     "category": "mern",
     "links": {
-      "code": "https://github.com/kartik-paliwa1/end-to-end-pipeline-jenkins",
-      "view": "https://github.com/kartik-paliwa1/end-to-end-pipeline-jenkins/tree/main/uploads"
+      "code": "https://www.linkedin.com/posts/sumittiwaridevops_%F0%9D%90%89%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%9A-%F0%9D%90%85%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%A5-activity-7358202067259158529-fUB-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFVJ1YwB5u4-fXrDrzieYiPyPi8d2wRxEn0",
+      "view": "https://www.linkedin.com/posts/sumittiwaridevops_%F0%9D%90%89%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%9A-%F0%9D%90%85%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%A5-activity-7358202067259158529-fUB-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFVJ1YwB5u4-fXrDrzieYiPyPi8d2wRxEn0"
     }
   }
 ]
